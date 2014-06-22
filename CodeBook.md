@@ -69,7 +69,8 @@ fBodyGyroJerkMag
   in order to perform the above mentioned transformations.
   
   Activity variables used in the dataset
-  walking
+
+walking
 
 walkingupstairs
 
